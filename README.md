@@ -22,3 +22,4 @@
  - Enregistrer l'utilisateur qui a proposer la recette 
  - Afficher un lien **Proposer une recette** dans la barre de menu uniquement si un utilisateur est connecter
  - Afficher le nom de l'utilisateur qui a proposer la recette dans la description 
+"# symfony"  
